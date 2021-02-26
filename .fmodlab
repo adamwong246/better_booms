@@ -1,5 +1,9 @@
+basicFire.lua
 changelog.txt
 data.lua
+extraFire.lua
 info.json
+laserTurret.lua
+oilRefinery.lua
 README.md
 thumbnail.png
